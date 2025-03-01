@@ -5,5 +5,5 @@
       "GO_VERSION": "1.24.0"
     }
   },
- "buildCommand": "hugo --gc --minify"
+ "buildCommand": "hugo build"
 }
